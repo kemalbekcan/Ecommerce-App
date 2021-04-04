@@ -1,0 +1,47 @@
+.navigation .navigation-list .navigation-item .navigation-link{
+    display: block;
+    font-size: 1rem;
+    transition: 0.5s;
+    color: #212121;
+}
+.navigation .navigation-list .navigation-item:hover .navigation-link:hover{
+    color: #212121;
+    font-weight: 800;
+    text-shadow: 0px 4px 4px rgb(18, 18, 19);
+}
+.column .navigation-right .right-item{
+    display: block;
+    font-size: 1rem;
+    transition: 0.5s;
+}
+.column .navigation-right .right-item .search, .cart, .heart{
+    display: block;
+    font-size: 1rem;
+    transition: 0.5s;
+    color: #212121;
+}
+
+@media screen and (min-width: 1024px) {
+    .navigation .navigation-list{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .navigation .navigation-list .navigation-item{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .column .navigation-right{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .column .navigation-right .right-item{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+  }

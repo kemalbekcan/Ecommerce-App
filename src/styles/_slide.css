@@ -1,0 +1,57 @@
+.slider{
+    height: 789px;
+    width: 1920px;
+}
+.slider-content{
+    position: relative;
+    align-items: center;
+}
+.slider .slider-content .slider-img{
+    position: absolute;
+}
+.slider .slider-content .slider-women{
+    position: absolute;
+    right: 0;
+    padding: 0;
+    margin: 0;
+}
+.slider .slider-content .slider-text{
+    position: absolute;
+    left: 300px;
+    top: 200px;
+}
+.slider .slider-content .slider-p{
+    position: absolute;
+    left: 300px;
+    top: 200px;
+    text-align: center;
+
+}
+.slider .slider-content .slider-h{
+    position: absolute;
+    left: 285px;
+    top: 220px;
+}
+.slider .slider-content #slider-h{
+    position: absolute;
+    left: 310px;
+    top: 250px;
+}
+.slider .slider-content .slider-button{
+    position: absolute;
+    left: 340px;
+    top: 300px;
+    padding: 15px 35px;
+    background-color: #ff5353;
+    border-radius: 4px 4px 4px;
+    color: white;
+}
+.slider .slider-content .slider-button:hover{
+    background-color: white;
+    color: black;
+    font-weight: 800;
+    transition: 0.5s;
+}
+.slider .slider-content .slider-text span{
+    padding-left: 30px;
+}

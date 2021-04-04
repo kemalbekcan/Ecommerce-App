@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 451" width="360" height="451">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f0f2f1 } 
+	</style>
+	<g id="Featured Product">
+		<g id="Product">
+			<g id="01">
+				<g id="Image">
+					<path id="BG" class="shp0" d="M0 0L360 0L360 451L0 451L0 0Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

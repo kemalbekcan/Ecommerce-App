@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 789" width="1920" height="789">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="-259.14" y1="429.457" x2="1660.86" y2="429.457">
+			<stop offset="0" stop-color="#ffa6ba"  />
+			<stop offset="0.484" stop-color="#efcbc3"  />
+			<stop offset="0.994" stop-color="#e3938b"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+	</style>
+	<g id="Banner">
+		<g id="Image">
+			<g id="BG">
+				<path id="BG" class="shp0" d="M0 0L1920 0L1920 790L0 790L0 0Z" />
+			</g>
+		</g>
+	</g>
+</svg>
